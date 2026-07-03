@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Paper Code Study"
+  short_description: "Study papers with their project code"
+  default_prompt: "Use $research-paper-code-study to explain this paper and its project code as a reproducible research workflow."
